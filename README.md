@@ -16,3 +16,9 @@ Email should appear in inbox as shown in the figure below.
 
 ## Tips
 Keep in mind though, that some services may require you to configure your account security settings, to send an email from Python. 
+
+For gmail accounts: 
+
+* Switch on Less secure App Access as shown in the figure below. 
+
+<img width="627" alt="Capture" src="https://user-images.githubusercontent.com/91548582/138096718-2e773630-b512-418f-861f-16d4b151ee61.PNG">
