@@ -5,8 +5,8 @@ Your goal for this challenge is to write a Python function to send a basic email
 At a minimum the function should have input parameters for the receiving email address, a subject line, and the message body.
 
 ## Output
-from EmailSender import send_email
-send_email('xxxxxxxxx@gmail.com' , 'Notification' , 'Everything is cool bro!')
+* from EmailSender import send_email
+* send_email('xxxxxxxxx@gmail.com' , 'Notification' , 'Everything is cool bro!')
 
 ### Check Gmail Account
 Email should appear in inbox as shown in the figure below. 
